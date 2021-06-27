@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @tumoresm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Dumela, I am Tumo
+i am interested building solutions
+I 'm busy learning node.js via freecodecamp
+also started with mtnappacademy "batsumi"
+i can be reached via slack/tumo and linkedin/tumo
+
 
 <!---
 tumoresm/tumoresm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
