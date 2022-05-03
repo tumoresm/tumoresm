@@ -1,8 +1,7 @@
 Dumela, I am Tumo
 i am interested building solutions
-I 'm busy learning node.js via freecodecamp
-also started with mtnappacademy "batsumi"
-i can be reached via slack/tumo and linkedin/tumo
+I 'm busy learning coding, full stack app development from java, kotling, flutter dart to node.js, python django.
+I am open to taking any opportunity to learn.
 
 
 <!---
