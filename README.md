@@ -1,5 +1,5 @@
 Dumela, I am Tumo
-i am interested building solutions
+i am interested in building solutions that are sustainable.
 I 'm busy learning coding, full stack app development from java, kotling, flutter dart to node.js, python django.
 I am open to taking any opportunity to learn.
 
